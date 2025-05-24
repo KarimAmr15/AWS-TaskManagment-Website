@@ -42,7 +42,7 @@ The system emphasizes scalability, fault tolerance, and real-world cloud archite
 
 ## Architecture Diagram
 
-![Architecture](Documentation/cloud_architecture.png) <!-- Replace with the actual image name in your repo -->
+![Architecture](Documentation/cloud_architecture.png)
 
 ---
 
@@ -79,4 +79,9 @@ The system emphasizes scalability, fault tolerance, and real-world cloud archite
 - File uploads handled via multipart/form-data to S3
 
 ---
-
+![Website](Media/signup.png)
+![Website](Media/verification.png)
+![Website](Media/site.png)
+![Website](Media/create_task.jpg)
+![Website](Media/delete_attachment.jpg)
+![Website](Media/delete_account.jpg)
